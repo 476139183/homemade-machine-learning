@@ -1,3 +1,5 @@
+
+## [获悉资源的来源](https://cloud.tencent.com/developer/news/381687) ##
 # Homemade Machine Learning
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks)
